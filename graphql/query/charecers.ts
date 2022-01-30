@@ -24,3 +24,4 @@ export const CHARECTER = gql`
     }
   }
 `;
+// https://www.youtube.com/watch?v=tE3WOGIJ1mI&ab_channel=JamesPerkins
